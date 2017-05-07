@@ -1,0 +1,7 @@
+pynder/
+*.pyc
+*.log
+*.csv
+*.jpg
+*.png
+*.json
